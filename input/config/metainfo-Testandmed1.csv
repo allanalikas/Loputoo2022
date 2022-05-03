@@ -1,0 +1,8 @@
+id,column_name,column_type,qi,sa,format
+0,id,UNK,0,0,-
+1,gender,gender,1,0,-
+2,age,age,1,0,-
+3,drug_name,UNK,0,0,-
+4,ATC,atc,1,0,-
+5,date,date,1,0,DD.MM.YYYY
+6,doctor_registry_code,UNK,0,1,-

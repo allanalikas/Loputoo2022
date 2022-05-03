@@ -1,0 +1,26 @@
+id,gender,age,country,county,diagnosis,diagnosis_time
+1,M,56,Estonia,Viljandi maakond,N,13.03.2022 00:00:00
+2,M,53,Estonia,Viljandi maakond,N,13.03.2022 00:00:01
+3,N,45,Estonia,Valga maakond,N,13.03.2022 00:00:02
+4,N,47,Estonia,Võru maakond,P,13.03.2022 00:00:03
+5,M,34,Estonia,Tartu maakond,N,13.03.2022 00:00:04
+6,N,42,Estonia,Harju maakond,N,13.03.2022 00:00:05
+7,M,65,Estonia,Viljandi maakond,N,13.03.2022 00:00:06
+8,N,25,Estonia,Tartu maakond,N,13.03.2022 00:00:07
+9,M,31,Estonia,Valga maakond,N,13.03.2022 00:00:08
+10,N,52,Estonia,Harju maakond,N,13.03.2022 00:00:09
+11,N,66,Estonia,Võru maakond,N,13.03.2022 00:00:10
+12,N,53,Estonia,Tartu maakond,N,13.03.2022 00:00:11
+13,N,41,Estonia,Tartu maakond,N,13.03.2022 00:00:12
+14,M,51,Estonia,Harju maakond,N,13.03.2022 00:00:13
+15,N,52,Estonia,Võru maakond,N,13.03.2022 00:00:14
+16,N,22,Estonia,Tartu maakond,N,13.03.2022 00:00:15
+17,M,18,Estonia,Tartu maakond,N,13.03.2022 00:00:16
+18,N,45,Estonia,Tartu maakond,P,13.03.2022 00:00:17
+19,N,22,Estonia,Viljandi maakond,N,13.03.2022 00:00:18
+20,M,64,Estonia,Võru maakond,N,13.03.2022 00:00:19
+21,M,31,Estonia,Harju maakond,N,13.03.2022 00:00:20
+22,M,23,Estonia,Harju maakond,P,13.03.2022 00:00:21
+23,M,20,Estonia,Tartu maakond,N,13.03.2022 00:00:22
+24,M,62,Estonia,Harju maakond,N,13.03.2022 00:00:23
+25,N,71,Estonia,Võru maakond,N,13.03.2022 00:00:24

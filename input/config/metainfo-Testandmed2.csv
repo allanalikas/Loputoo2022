@@ -1,0 +1,7 @@
+id,column_name,column_type,qi,sa,format
+0,id,UNK,0,0,-
+1,gender,gender,1,0,-
+2,age,age,1,0,-
+3,document_id,ehak,1,0,-
+4,main_diag_code,dgn,1,0,-
+5,main_diag_name,UNK,0,1,-

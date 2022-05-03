@@ -1,0 +1,5 @@
+[ARX]
+suppressionLimit:1.0d
+kanonymity:3
+ldiversity:1
+localiterationnumber:100
