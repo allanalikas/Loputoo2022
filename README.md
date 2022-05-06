@@ -13,7 +13,7 @@ Selleks, et jooksutada käsureaprogrammi on vaja, et arvutis on installeeritud J
 
 ## Installeerimine ja kasutamine
 
-Kasutades [IntelliJ IDE](https://www.jetbrains.com/idea/) koodiredaktorit JetBrainsi poolt.
+Kasutades [IntelliJ IDEA](https://www.jetbrains.com/idea/) koodiredaktorit JetBrainsi poolt.
 
 1. Lisada uus artefact kasutades "Project Structure" -> "Artifacts"
 1. Genereerida artefact kasutades "Build" -> "Build Artifacts"
