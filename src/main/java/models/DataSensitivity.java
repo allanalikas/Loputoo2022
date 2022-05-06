@@ -1,3 +1,5 @@
+package models;
+
 public class DataSensitivity {
     private int id;
     private String columnName;

@@ -1,3 +1,5 @@
+package models;
+
 import org.ini4j.Wini;
 import java.io.File;
 import java.io.IOException;
