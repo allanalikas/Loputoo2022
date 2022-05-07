@@ -8,8 +8,14 @@ import org.deidentifier.arx.exceptions.RollbackRequiredException;
 
 public class RecodedResult {
 
+    /**
+     * Data model containing different anonymization results.
+     */
     private Pair<Pair<ARXResult, DataHandle>, ARXProcessStatistics> result;
 
+    /**
+     * Anonymized data in local recoding.
+     */
     private DataHandle output;
 
     public RecodedResult (ARXResult result, ARXProps properties) {
@@ -17,7 +23,7 @@ public class RecodedResult {
         if (result.isResultAvailable()) {
             output = result.getOutput(false);
         }
-        //Turn into local recoding
+        //Convert into local recoding
         if(output != null) {
             try {
                 ARXProcessStatistics statistics = result.getProcessStatistics();

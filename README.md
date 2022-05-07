@@ -4,12 +4,19 @@ Lõputöö eesmärk on võrrelda üldistamisel põhinevaid anonüümimistarkvara
 
 ## Lähtekood ja testandmed
 
-Lähtekoodi on võimalik vaadelda [src/main/java](https://github.com/allanalikas/ARX-CLI/tree/main/src/main/java). Testandmed ja kõik vajalikud lisafailid, et jooksutada anonüümimisprotsessi testandmete peal on võimalik leida sellest [/input](https://github.com/allanalikas/ARX-CLI/tree/main/input) kaustast
+Lähtekoodi on võimalik vaadelda [src/main/java](https://github.com/allanalikas/Loputoo2022/tree/main/src/main/java). Testandmed ja kõik vajalikud lisafailid, et jooksutada anonüümimisprotsessi testandmete peal on võimalik leida sellest [/input](https://github.com/allanalikas/Loputoo2022/tree/main/input) kaustast
 
 ## Vajalikud tehnoloogiad
 
 Selleks, et jooksutada käsureaprogrammi on vaja, et arvutis on installeeritud Java 11 programmeerimiskeel.
 
+## Parameetrid
+
+- -i -input : Sisendandmete CSV faili teeviit 
+- -h -hierarchy : üldistushierarhiate kausta teeviit;
+- -fc -dataFieldClassification : andmeväljade klassifikatsioonide faili teeviit; 
+- -o -output : väljundandmete kausta teeviit;
+- -c -config : ARXi konfiguratsiooni sisaldava faili teeviit;
 
 ## Installeerimine ja kasutamine
 
@@ -18,6 +25,7 @@ Kasutades [IntelliJ IDE](https://www.jetbrains.com/idea/) koodiredaktorit JetBra
 1. Lisada uus artefact kasutades "Project Structure" -> "Artifacts"
 1. Genereerida artefact kasutades "Build" -> "Build Artifacts"
 1. Genereeritud JAR fail peaks olema projekti out/artifacts kaustas juhul kui pole muudetud standard seadistusi IntelliJ või artefakti loomisel.
+1. Genereeritud JAR faili kasutamiseks kasutage käsklust "java -jar Loputoo2022.jar < parameetrid >"
 
 # Privacy preserving anonymization software
 
@@ -25,11 +33,19 @@ The aim of this thesis is to compare generalization based anonymization software
 
 ## Application code and test data
 
-The source code can be found under [src/main/java](https://github.com/allanalikas/ARX-CLI/tree/main/src/main/java). The test data that was created during this thesis and all accompanying metadata can be found under the [/input](https://github.com/allanalikas/ARX-CLI/tree/main/input) folder.
+The source code can be found under [src/main/java](https://github.com/allanalikas/Loputoo2022/tree/main/src/main/java). The test data that was created during this thesis and all accompanying metadata can be found under the [/input](https://github.com/allanalikas/Loputoo2022/tree/main/input) folder.
 
 ## Prerequisites
 
 To work on or to run the code Java 11 needs to be installed in the host computer.
+
+## Parameters
+
+- -i -input : Input CSV file path; 
+- -h -hierarchy : Folder path containing Generalization hierarchies;
+- -fc -dataFieldClassification : Data field classification file path; 
+- -o -output : Output data folder path;
+- -c -config : ARX configuration file path; 
 
 ## Installation and running the code
 
@@ -38,3 +54,4 @@ Using IntelliJ IDE by JetBrains
 1. Add a new artifact in Project Structure -> Artifacts
 1. Build the artifact using Build -> Build Artifacts
 1. The built JAR file should be located in the folder out/artifacts (Could be different depending on configuration when adding a new artifacts and IntelliJ settings)
+1. Using the JAR file is to use the command "java -jar Loputoo2022.jar < parameters >"
