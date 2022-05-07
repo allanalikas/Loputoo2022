@@ -8,7 +8,7 @@ Lähtekoodi on võimalik vaadelda [src/main/java](https://github.com/allanalikas
 
 ## Vajalikud tehnoloogiad
 
-Selleks, et jooksutada käsureaprogrammi on vaja, et arvutis on installeeritud Java 11 programmeerimiskeel.
+Selleks, et jooksutada käsureaprogrammi on vaja, et arvutis on installeeritud Java 13 programmeerimiskeel.
 
 ## Parameetrid
 
@@ -37,7 +37,7 @@ The source code can be found under [src/main/java](https://github.com/allanalika
 
 ## Prerequisites
 
-To work on or to run the code Java 11 needs to be installed in the host computer.
+To work on or to run the code Java 13 needs to be installed in the host computer.
 
 ## Parameters
 
