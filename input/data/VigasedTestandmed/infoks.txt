@@ -1,0 +1,3 @@
+Neid andmeid mitte kasutada integreeritud käsureaprogrammis. Need olid tarkvarade võrdluses osalevate programmide testimise jaoks.
+
+Do not use these files for the implemented command-line program. They were used in the comparison of anonymization software in the thesis.

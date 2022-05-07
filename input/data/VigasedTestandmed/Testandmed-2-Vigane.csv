@@ -1,0 +1,26 @@
+id,gender,age,document_id,main_diag_code,main_diag_name
+1,M,156,524,A63.8,Peamiselt suguliselt levivad muud täpsustatud haigused
+2,M,53,2312,A08.1,Norwalki viiruse tekkene äge gastroenteropaatia
+3,N,45,4123,A08.1,Norwalki viiruse tekkene äge gastroenteropaatia
+4,N,47,524,A63.8,Peamiselt suguliselt levivad muud täpsustatud haigused
+5,M,34,4123,A63.8,Peamiselt suguliselt levivad muud täpsustatud haigused
+6,N,42,123,A08.1,Norwalki viiruse tekkene äge gastroenteropaatia
+7,M,65,2312,A,Täpsustamata leptospiroos; paranenud
+8,N,25,123,A08.1,Norwalki viiruse tekkene äge gastroenteropaatia
+9,K,31,524,A63.8,Peamiselt suguliselt levivad muud täpsustatud haigused
+10,N,52,123,A07.1,Giardiaas [lambliaas]
+11,N,66,524,A63.8,Peamiselt suguliselt levivad muud täpsustatud haigused
+12,N,-53,123,A63.8,Peamiselt suguliselt levivad muud täpsustatud haigused
+13,N,41,2312,A27.9,Täpsustamata leptospiroos; paranenud
+14,M,51,4123,A63.8,Peamiselt suguliselt levivad muud täpsustatud haigused
+15,N,52,2312,A07.1,Giardiaas [lambliaas]
+16,S,22,2312,A08.1,Norwalki viiruse tekkene äge gastroenteropaatia
+17,M,18,4213,A08.1,Norwalki viiruse tekkene äge gastroenteropaatia
+18,N,45,123,A07.1,Giardiaas [lambliaas]
+19,N,22,2312,A46,Erüsiipel e roos
+20,M,64,4123,A4656,Erüsiipel e roos
+21,M,31,524,A63.8,Peamiselt suguliselt levivad muud täpsustatud haigused
+22,M,23,2312,A27.9,Täpsustamata leptospiroos; paranenud
+23,M,200,2312,A46,Erüsiipel e roos
+24,M,62,4213,A46,Erüsiipel e roos
+25,N,71,0,A07.1,Giardiaas [lambliaas]
