@@ -22,10 +22,10 @@ Selleks, et jooksutada käsureaprogrammi on vaja, et arvutis on installeeritud J
 
 Kasutades [IntelliJ IDEA](https://www.jetbrains.com/idea/) koodiredaktorit JetBrainsi poolt.
 
-1. Lisada uus artefact kasutades "Project Structure" -> "Artifacts"
+1. Lisada uus artefact kasutades "Project Structure" -> "Artifacts" kasutades "JAR from modules with dependencies" versiooni. Peamiseks klassiks on CLI.java
 1. Genereerida artefact kasutades "Build" -> "Build Artifacts"
 1. Genereeritud JAR fail peaks olema projekti out/artifacts kaustas juhul kui pole muudetud standard seadistusi IntelliJ või artefakti loomisel.
-1. Genereeritud JAR faili kasutamiseks kasutage käsklust "java -jar Loputoo2022.jar < parameetrid >"
+1. Genereeritud JAR faili kasutamiseks kasutage käsklust "java -jar CLI.jar < parameetrid >"
 
 # Privacy preserving anonymization software
 
@@ -51,7 +51,7 @@ To work on or to run the code Java 13 needs to be installed in the host computer
 
 Using IntelliJ IDE by JetBrains
 
-1. Add a new artifact in Project Structure -> Artifacts
+1. Add a new artifact in Project Structure -> Artifacts using the "JAR from modules with dependencies" version. Main class is CLI.java
 1. Build the artifact using Build -> Build Artifacts
 1. The built JAR file should be located in the folder out/artifacts (Could be different depending on configuration when adding a new artifacts and IntelliJ settings)
-1. Using the JAR file is to use the command "java -jar Loputoo2022.jar < parameters >"
+1. Using the JAR file is to use the command "java -jar CLI.jar < parameters >"
