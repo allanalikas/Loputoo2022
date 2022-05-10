@@ -1,6 +1,6 @@
 # Privaatsust tagavad anonüümimistarkvarad 
 
-Lõputöö eesmärk on võrrelda üldistamisel põhinevaid anonüümimistarkvarasid, et võtta neist sobivaim kasutusele Health Sense projektis. Võrdlusse kaasati kolm tarkvara: ARX, Amnesia ja Anonimatron. Võrdlus viidi läbi 10 hindamiskriteeriumi alusel, millest osad pärinevad ISO-9421 standardist ja osad tulenevad Health Sense projekti vajadustest. Võrdluse läbiviimiseks loodi 3 komplekti testandmeid, mida kasutati anonüümimisel sisendina. Sobivaimaks tarkvaraks osutus ARX, mis integreeriti Health Sense projektis valmivasse tarkvarakomplekti. 
+Lõputöö eesmärk on võrrelda üldistamisel põhinevaid anonüümimistarkvarasid, et võtta neist sobivaim kasutusele Health Sense projektis. Võrdlusse kaasati kolm tarkvara: ARX, Amnesia ja Anonimatron. Võrdlus viidi läbi 10 hindamiskriteeriumi alusel, millest osad pärinevad ISO-9421 standardist ja osad tulenevad Health Sense projekti vajadustest. Võrdluse läbiviimiseks loodi 3 komplekti testandmeid, mida kasutati anonüümimisel sisendina. Sobivaimaks tarkvaraks osutus ARX, mis integreeriti Health Sense projektis valmivasse tarkvarakomplekti.
 
 ## Lähtekood ja testandmed
 
@@ -29,7 +29,7 @@ Kasutades [IntelliJ IDEA](https://www.jetbrains.com/idea/) koodiredaktorit JetBr
 
 # Privacy preserving anonymization software
 
-The aim of this thesis is to compare generalization based anonymization software in order to implement the most suitable one in the Health Sense project. Three software were included in the comparison: ARX, Amnesia and Anonimatron. The comparison based on 10 evaluation criteria, some of which were derived from the ISO-9421 standard and ohter were based on the needs of the Health Sense project. For the comparison three sets of test data was compiled and used in the anonymization process. The most suitable software was ARX that was integrated into the software suite that is being developed in the Health Sense project.  
+The aim of this thesis is to compare generalization-based anonymization software in order to implement the most suitable one in the Health Sense project. Three software were included in the comparison: ARX, Amnesia, and Anonimatron. The comparison was based on 10 evaluation criteria, some of which were derived from the ISO-9421 standard, and others were based on the requirements of the Health Sense project. For the comparison, three sets of test data were compiled and used in the anonymization process. The most suitable software was ARX which was integrated into the software suite that is being developed in the Health Sense project. 
 
 ## Application code and test data
 
