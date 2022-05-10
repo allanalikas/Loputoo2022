@@ -8,7 +8,7 @@ Lähtekoodi on võimalik vaadelda [src/main/java](https://github.com/allanalikas
 
 ## Vajalikud tehnoloogiad
 
-Selleks, et jooksutada käsureaprogrammi on vaja, et arvutis on installeeritud Java 13 programmeerimiskeel.
+Selleks, et jooksutada käsureaprogrammi on vaja, et arvutis on installeeritud Java programmeerimiskeele versiooni 13.
 
 ## Parameetrid
 
